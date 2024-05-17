@@ -1,5 +1,5 @@
 # Sales Analysis
-##Belin Order Sales Analysis
+##Berlin Order Sales Analysis
 
 ### Table of contents
 - [Project Overview](#project-overview)
